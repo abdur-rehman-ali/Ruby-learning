@@ -29,3 +29,11 @@ Modules
 1. Creating Modules
 2. includeing Modules in classes using include keyword
 3. require keyword 
+
+Arrays
+1. Creating and initiailzing Arrays
+2. push method
+3. map method
+4. select method
+5. delete method
+6. delete_if method 
