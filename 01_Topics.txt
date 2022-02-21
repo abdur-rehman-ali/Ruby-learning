@@ -1,0 +1,18 @@
+
+Conditionals 
+1. if-else
+2. if midifiers
+3. unless statement
+4. unless-else statement
+5. unless midifiers
+6. case statement 
+
+Loops
+1. while loop
+2. while modifiers
+3. until statement
+4. until modifiers
+5. for loop
+6. break statement
+7. next statement
+8. redo statement
