@@ -23,4 +23,9 @@ Methods
 3. Return value from Methods
 5. Methods with any number of parameters
 6. alias statement
-7. undef statement 
+7. undef statement
+
+Modules 
+1. Creating Modules
+2. includeing Modules in classes using include keyword
+3. require keyword 
