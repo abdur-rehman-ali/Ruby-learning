@@ -16,3 +16,11 @@ Loops
 6. break statement
 7. next statement
 8. redo statement
+
+Methods
+1. Defining Methods
+2. Defining methods with default multiple
+3. Return value from Methods
+5. Methods with any number of parameters
+6. alias statement
+7. undef statement 
