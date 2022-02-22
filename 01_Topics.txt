@@ -37,3 +37,8 @@ Arrays
 4. select method
 5. delete method
 6. delete_if method 
+
+Hashes
+1. creating hash (key,value)
+2. iterating over hash using each method
+3. key and value method on hash 
