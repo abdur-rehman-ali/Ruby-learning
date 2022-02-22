@@ -42,3 +42,12 @@ Hashes
 1. creating hash (key,value)
 2. iterating over hash using each method
 3. key and value method on hash 
+
+File IO
+1. puts and gets method
+2. File.new method to open the file
+3. sysread to read characters from file 
+4. syswrite method
+5. IO.readlines(file_path) (return array of lines read)
+6. IO.foreach
+7. renaming and deleting files
