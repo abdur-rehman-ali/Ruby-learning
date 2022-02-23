@@ -51,3 +51,24 @@ File IO
 5. IO.readlines(file_path) (return array of lines read)
 6. IO.foreach
 7. renaming and deleting files
+
+OOPS
+1. Defining classes and creating objects
+2. initalize method 
+3. instance variables and methods
+4. getters or accessors 
+5. setters
+6. class variables and methods
+7. to_s method
+8. Access control (public,private,protected methods)
+9. inheritance
+10.method overriding
+11.Freezing objects
+12.class constants
+13.super method
+14.attr_reader, attr_writer, attr_accessor
+15.operator overloading
+16.object equality, eql? method , hash codes 
+17.puts,p,inspect,to_s
+
+
