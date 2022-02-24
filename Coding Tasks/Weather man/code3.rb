@@ -48,6 +48,6 @@ Dir.foreach(dir_path) do |file|
     end
 end
 
-puts "#{highest_temp_date} - #{highest_temp}"
-puts "#{lowest_temp_date} - #{lowest_temp}"
-puts "#{max_humidity_date} - #{max_humidity}"
+puts "Highest: #{highest_temp}C on #{highest_temp_date}"
+puts "Lowest: #{lowest_temp}C on #{lowest_temp_date}"
+puts "Humid #{max_humidity}% on #{max_humidity_date}"
